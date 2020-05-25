@@ -1,7 +1,7 @@
 # BarRoulettePublic
 
 Privacy Policy
-Sami Taha built the BarRoulette app as a Commercial app. This SERVICE is provided by Sami Taha and is intended for use as is.
+Sami Taha and David Finn built the BarRoulette app as a Commercial app. This SERVICE is provided by Sami Taha and David Finn and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
